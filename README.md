@@ -14,7 +14,7 @@ The approach involves multiple phases:
    - Embedding Layer: Word and character-level embeddings for context and questions.
    - Encoder Layer: Utilizing GRU instead of Bi-LSTM for temporal linkages.
    - Attention, Modeling, and Output Layers for context-question comprehension and answer probability computation.
-3. **Hyperparameter Tuning**: Focusing on learning rates and drop probabilities.
+3. **Hyperparameter Tuning**: Focusing on learning rates and drop probabilities.  
 4. **Robustness Evaluation**: Testing the model against adversarial queries.
 5. **Comparative Analysis**: Comparing the GRU-based BiDAF with fine-tuned BERT and other pre-trained models.
 
