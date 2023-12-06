@@ -19,11 +19,6 @@ The approach involves multiple phases:
 5. **Comparative Analysis**: Comparing the GRU-based BiDAF with fine-tuned BERT and other pre-trained models.
 
 
-<p align="center">
-  <img src=""C:\Users\ssriv\Desktop\Architecture of BIDAF.png"" alt=" Architecture of BIDAF">
-</p>
-
-
 ### Data
 Using the SQuAD 2.0 dataset comprising answerable and unanswerable questions, facilitating model comprehension under various circumstances.
 
